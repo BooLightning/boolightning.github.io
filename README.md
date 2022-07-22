@@ -1,7 +1,6 @@
 # boolightning.github.io
 <!DOCTYPE html>
 <head>
-<title>BLS</title>
 </head>
 <body>
 <main>
