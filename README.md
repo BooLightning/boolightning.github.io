@@ -1,9 +1,9 @@
 # boolightning.github.io
 <head>
+  <meta name="google-site-verification" content="xygiFVg2oQ1T0wp3dWQoaZ-4o251jOmzBgFYzUEFAxQ"/>
 </head>
 <body>
 <main>
-<meta name="google-site-verification" content="xygiFVg2oQ1T0wp3dWQoaZ-4o251jOmzBgFYzUEFAxQ"/>
 
 <br>
 
