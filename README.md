@@ -18,7 +18,7 @@
 
 <a href= "https://boolightning.github.io/JavaScript/circlemilestone.html" target="_blank">circle milestone</a> <br> <br>
 
-<a href= "https://boolightning.github.io/JavaScript/currenttarget.html" target="_blank">current target</a> <br> <br>
+<a href= "https://boolightning.github.io/JavaScript/cool.html" target="_blank">Even BETTER Ways To Use Canvas</a> <br> <br>
   
 <a href= "https://boolightning.github.io/JavaScript/EX.html" target="_blank">EX</a> <br> <br>
   
