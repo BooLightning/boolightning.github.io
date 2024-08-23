@@ -8,8 +8,6 @@
 
 <a href="https://www.khanacademy.org/computer-programming/age-check-version-24/6160950342238208" target="_blank">Age Check</a> <br> <br>
 
-<a href= "https://boolightning.github.io/JavaScript/board.html" target="_blank">board</a> <br> <br>
-
 <a href= "https://boolightning.github.io/JavaScript/loop.html" target="_blank">Car loop</a> <br> <br>
 
 <a href= "https://boolightning.github.io/JavaScript/changing-font-size.html" target="_blank">changing font size</a> <br> <br>
@@ -25,8 +23,6 @@
 <a href= "https://boolightning.github.io/JavaScript/HappyBirthday.html" target="_blank">Happy Birthday</a> <br> <br>
   
 <a href= "https://www.khanacademy.org/computer-programming/how-to-use-a-canvas/5267248220520448" target="_blank">How to use a canvas</a> <br> <br>
-
-<a href= "https://boolightning.github.io/JavaScript/people-also-ask.html" target="_blank">people also ask</a> <br> <br>
 
 <a href= "https://github.com/BooLightning/JavaScript/blob/main/Programming%20Music.mp3" target="_blank">Programming Music</a> <br> <br>
   
