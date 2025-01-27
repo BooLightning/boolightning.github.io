@@ -25,6 +25,8 @@
 <a href= "https://www.khanacademy.org/computer-programming/how-to-use-a-canvas/5267248220520448" target="_blank">How to use a canvas</a> <br> <br>
 
 <a href= "https://github.com/BooLightning/JavaScript/blob/main/Programming%20Music.mp3" target="_blank">Programming Music</a> <br> <br>
+
+<a href="https://drone-buy.carrd.co/#" target="_blank">random drone file</a> <br> <br>
   
 <a href= "https://boolightning.github.io/JavaScript/RES_TEST.html" target="_blank">RES TEST</a> <br> <br>
 
