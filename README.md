@@ -36,6 +36,8 @@
 
 <a href= "https://boolightning.github.io/JavaScript/try-catch.html" target="_blank">try catch</a> <br> <br>
 
+<a href= "https://boolightning.github.io/JavaScript/visibility.html" target="_blank">video test</a> <br> <br>
+
 <a href= "https://boolightning.github.io/JavaScript/visibility.html" target="_blank">visibility</a> <br> <br>
 
 <a href="https://boolightning.github.io/JavaScript/currenttarget.html" target="_blank">window load EDITED</a> <br> <br>
